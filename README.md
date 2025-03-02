@@ -25,7 +25,7 @@ This is the pytorch implementation of our manuscript "Q-space Guided Universal T
 
 **Inference**
 
-First put the trained weight (https://drive.google.com/file/d/10XZTDnNgrGBNWU81Ke2GuucJhUh5FTh-/view?usp=sharing) in 'checkpoint' folder, and put the testing data (b0, T1, T2 and b-vector) in 'dataset' folder.
+First put the trained weight (https://drive.google.com/file/d/1HhpQLAZD4QPjXFgTnedYP4fzBLreYgaW/view?usp=sharing) in 'checkpoint' folder, and put the testing data (b0, T1, T2 and b-vector) in 'dataset' folder.
 To obtain synthesized DWI data, please run:
 
         python ./mains/test.py
