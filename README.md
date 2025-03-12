@@ -1,6 +1,6 @@
 # Q-UTN
 
-This is the pytorch implementation of our manuscript "Q-space Guided Universal Translation Network for Lifespan Diffusion-Weighted Images Synthesis".
+This is the pytorch implementation of our manuscript "Q-space Guided Universal Translation Network across Lifespan Diffusion-Weighted Images Synthesis".
 
 
 **Dependencies**
